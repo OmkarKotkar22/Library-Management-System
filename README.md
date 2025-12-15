@@ -30,7 +30,7 @@ Libraries in **schools, colleges, universities, and public institutions** rely o
 
 ---
 
-## 📂 Project Structure (As per Screenshot)
+## 📂 Project Structure
 
 ```text
 Library-Management-System
